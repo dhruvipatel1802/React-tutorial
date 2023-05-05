@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Rochester&family=Yesteryear&display=swap');
+.abc{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.mb-3{
+   
+  font-weight: 70%;
+  left: 10pc;
+}
+.mb-4{
+    font-size: 55px;
+    font-weight:bolder;
+    position: relative;
+    left: 200px;
+
+}
+#name{
+    box-sizing: border-box;
+
+position: relative;
+width: 394px;
+height: 49px;
+    top: 5px;
+    left: 4px;
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 25px;
+font-style:oblique;
+font-weight:bold;
+}
+
+#phone{
+    box-sizing: border-box;
+
+position: relative;
+width: 394px;
+height: 49px;
+    top: 5px;
+    left: 4px;
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 25px;
+}
+#email{
+    box-sizing: border-box;
+
+position: relative;
+width: 394px;
+height: 49px;
+    top: 5px;
+    left: 4px;
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 25px;
+}
+#message{
+    box-sizing: border-box;
+
+position: relative;
+width: 394px;
+height: 115px;
+    top: 5px;
+    left: 4px;
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 25px;
+}
+
+.btn-dark{
+    position: relative;
+    left: 300px;
+    right:100px;
+    width: 100%;
+    left: 0%;
+    top: 15px;
+    border-radius: 35px;
+}
+
+.img-fluid{
+    position: relative;
+    width: 100%;
+    top:10%;
+    left:4%;
+ }
+
+.footer{
+    box-sizing: border-box;
+display: flex;
+position: absolute;
+width: 2000px;
+height: 300px;
+left: 0px;
+top: 800px;
+background: linear-gradient(180deg, #F12711 0%, #990009 100%);
+border: 5px solid #000000;
+}
+.font{
+    position: relative;
+    bottom:25%;
+    
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 41px;
+line-height: 50px;
+text-align: center;
+
+color: #000000;
+}

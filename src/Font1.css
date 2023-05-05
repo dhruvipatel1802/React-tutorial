@@ -1,0 +1,25 @@
+.font-about{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 90px;  
+    top: 0%;
+    margin-left: 30%;
+    color: rgb(148, 26, 193);
+    position: relative;
+
+}
+.fnt_fluid{
+   width: 1550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 50px;
+    color: #000000;
+    position: relative;
+    left: 0%;
+    top:-1pc;
+    margin-left:5%;
+   
+}

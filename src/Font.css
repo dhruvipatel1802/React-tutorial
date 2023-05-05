@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rochester&family=Yesteryear&display=swap');
+.font_fluid {
+    position: relative;
+    top: 3%;;
+width: 812px;
+height: 220px;
+left: 79px;
+right: 5%;
+font-family:'rye';
+font-weight: 400;
+font-size: 113px;
+line-height: 130px;
+
+color: #FFFFFF;
+
+}
+.font-fluid1{
+    position: relative;
+width: 770px;
+height: 187px;
+left: 300px;
+top: 8%;
+bottom: auto;
+font-family: 'Rochester';
+
+font-style: normal;
+font-weight: 200;
+font-size: 50px;
+line-height: 80px;
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.btn-primary
+{
+    position: relative;
+    top: 60px;
+    left: 300px;
+    right:100px;
+    margin-left:40px;
+}
+.btn-primary{
+    position: relative;
+    top: 60px;
+    left: 500px;
+   
+}
+

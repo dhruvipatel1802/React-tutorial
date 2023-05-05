@@ -1,0 +1,16 @@
+.style{
+    
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1510px;
+    height: 600px;
+    left: 16px;
+    top: 232px;
+    margin-top: 1%;
+    top: 15%;
+    
+    background: linear-gradient(135deg, #550000 0%, #E42A2A 100%);
+    border: 1px solid #000000;
+    border-radius: 48px 48px 300px 48px;
+}

@@ -1,0 +1,12 @@
+.image-fluid {
+    position: relative;
+    width: 30%;
+    left: 66%;
+    bottom: 62%;
+    animation-name:inherit;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  transition: rotate(90deg);
+  margin-left: 2%;
+  
+}
